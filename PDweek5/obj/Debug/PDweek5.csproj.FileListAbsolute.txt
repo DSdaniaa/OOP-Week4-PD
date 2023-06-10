@@ -1,0 +1,7 @@
+C:\OOP\PD week05\PDweek5\PDweek5\bin\Debug\PDweek5.exe.config
+C:\OOP\PD week05\PDweek5\PDweek5\bin\Debug\PDweek5.exe
+C:\OOP\PD week05\PDweek5\PDweek5\bin\Debug\PDweek5.pdb
+C:\OOP\PD week05\PDweek5\PDweek5\obj\Debug\PDweek5.csproj.AssemblyReference.cache
+C:\OOP\PD week05\PDweek5\PDweek5\obj\Debug\PDweek5.csproj.CoreCompileInputs.cache
+C:\OOP\PD week05\PDweek5\PDweek5\obj\Debug\PDweek5.exe
+C:\OOP\PD week05\PDweek5\PDweek5\obj\Debug\PDweek5.pdb
